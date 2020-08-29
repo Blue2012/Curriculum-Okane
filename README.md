@@ -3,7 +3,8 @@
 |key|value|
 |---|-----|
 |Name|大兼健造(Kenzo Ookane)|
-|Blog|[SEのSEによるSEのための禁煙ブログ](https://kanechanee.hatenablog.com/)|
+|Blog1|[SEのSEによるSEのための禁煙ブログ](https://kanechanee.hatenablog.com/)|
+|Blog2|[システムエンジニアの読書感想文](https://kanechanee.wixsite.com/sebookreport)|
 |Twitter|[@kanechany](https://twitter.com/kanechany)|
 |Qiita|[@Blue2012](https://qiita.com/Blue2012)|
 |codewars|[Blue2012](https://www.codewars.com/users/Blue2012)|
